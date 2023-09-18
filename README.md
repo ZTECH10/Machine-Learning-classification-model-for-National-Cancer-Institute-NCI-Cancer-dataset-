@@ -1,7 +1,7 @@
 
 
 **Project Summary: Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial Analysis** 🩺📊
-**Project Overview**:
+
 **Project Description:**
 The Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial, sponsored by the National Cancer Institute (NCI), aims to assess the risk of developing PLCO cancer. The screening phase concluded in 2006, but data collection continued until 2015. This mini-project focuses on a subset of the dataset with 216 patients, classified as ('C') cancer and ('N') No cancer, featuring 4000 features encompassing gene-related and blood-related information. 🧬💉
 
