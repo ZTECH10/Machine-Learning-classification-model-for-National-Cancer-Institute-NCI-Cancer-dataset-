@@ -1,4 +1,4 @@
-<img width="529" alt="Screen Shot 2023-09-18 at 11 28 52 AM" src="https://github.com/ZTECH10/Machine-Learning-classfication-model-for-National-Cancer-Institute-NCI-Cancer-dataset-/assets/53150477/c8b41497-0904-482a-9c63-b2956e68162f"><img width="466" alt="Screen Shot 2023-09-18 at 11 28 41 AM" src="https://github.com/ZTECH10/Machine-Learning-classfication-model-for-National-Cancer-Institute-NCI-Cancer-dataset-/assets/53150477/42a5fd29-3f36-4c7e-9fc9-9ab6fa81f647">
+
 
 **Project Summary: Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial Analysis** 🩺📊
 
